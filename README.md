@@ -101,7 +101,7 @@ Thanks to this [thread](https://news.ycombinator.com/item?id=13660086) in HN.
 * Mics
    * [Practical Common Lisp](http://www.gigamonkeys.com/book/), Peter Seibel
    * [The Art of Monitoring](https://www.artofmonitoring.com/), James Turnbull
-   * [The Little Schemer](https://mitpress.mit.edu/books/little-schemer), Daniel P. Friedman and Matthias Felleisen
+   * [The Little Schemer](https://mitpress.mit.edu/books/little-schemer-fourth-edition), Daniel P. Friedman and Matthias Felleisen
    * [The Reasoned Schemer](https://mitpress.mit.edu/books/reasoned-schemer), Daniel P. Friedman, William E. Byrd and Oleg Kiselyov
    * [Nim in Action](https://www.manning.com/books/nim-in-action?a_aid=niminaction&a_bid=78a27e81), Dominik Picheta
    * [C++ Design Patterns and Derivatives Pricing](https://www.amazon.com/Patterns-Derivatives-Pricing-Mathematics-Finance/dp/0521721628), M. S. Joshi
